@@ -1,4 +1,6 @@
 # AutoDLKeeper
+## AutoDL新增安全机制，目前已不可用
+
 一键给多个AutoDL（autodl.com）账户下的所有实例刷新过期时间。
 
 ### 支持功能
